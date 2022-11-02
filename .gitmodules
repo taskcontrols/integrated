@@ -10,3 +10,6 @@
 [submodule "taskcontrols.github.io"]
 	path = taskcontrols.github.io
 	url = https://github.com/taskcontrols/taskcontrols.github.io.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/taskcontrols/cli.git
