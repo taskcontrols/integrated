@@ -1,0 +1,12 @@
+[submodule "py-taskcontrol"]
+	path = py-taskcontrol
+	url = https://github.com/taskcontrols/py-taskcontrol.git
+[submodule "js-taskcontrol"]
+	path = js-taskcontrol
+	url = https://github.com/taskcontrols/js-taskcontrol.git
+[submodule "go-taskcontrol"]
+	path = go-taskcontrol
+	url = https://github.com/taskcontrols/go-taskcontrol.git
+[submodule "taskcontrols.github.io"]
+	path = taskcontrols.github.io
+	url = https://github.com/taskcontrols/taskcontrols.github.io.git
